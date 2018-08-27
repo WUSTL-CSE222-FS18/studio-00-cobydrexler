@@ -68,7 +68,7 @@ Feature Name | Feature explanation
 Wifi Connection/Bluetooth | Item works anywhere with Wifi
 Sensory Capabilities | Item is able to take in sensory information about the physical world
 Information Communication | Information gathered by the item can be accessed from  other devices
-Data Analysis | Item can listen to other items' instructions and adjust its behavior accordingly
+Data Analysis | Data can be analyzed to accomplish something
 
 Search for some additional IoT examples at other sites and find two examples that you find interesting.
 
